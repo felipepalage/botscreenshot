@@ -15,7 +15,7 @@ Para executar o código:
 1. Clone este repositório em sua máquina local usando:
 
    ```
-   git clone [https://github.com/seu-usuario/bot-screenshot.git](https://github.com/felipepalage/botscreenshot)
+   git clone https://github.com/felipepalage/botscreenshot
    ```
 
 2. No terminal, navegue até o diretório do projeto e instale as dependências utilizando o comando:
